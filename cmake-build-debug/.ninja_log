@@ -1,0 +1,7 @@
+# ninja log v5
+1344	1406	1701065972086808778	honeycomb	d59d5ffe95ec929a
+8	1344	1701065972020237045	CMakeFiles/honeycomb.dir/src/parser/Parser.cpp.o	6e66171275d3742a
+8	1178	1701065971853333530	CMakeFiles/honeycomb.dir/src/main.cpp.o	2a8a25889d4d325a
+7	1176	1701065971850189985	CMakeFiles/honeycomb.dir/src/lexer/Lexer.cpp.o	a4d7a33b16128fc6
+0	81	1701066025255421919	build.ninja	6cea0f9fb20c27aa
+5	861	1701066026144783283	CMakeFiles/honeycomb.dir/src/lexer/Lexer.cpp.o	8844099f068f3ccf

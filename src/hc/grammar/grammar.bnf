@@ -1,0 +1,7 @@
+<program> ::= "main" ":" <params> "->" <return_type> "{" <statement> "}"
+<params> ::= <param_list>
+<param_list> ::= <param> | <param> "," <param_list>
+<param> ::= IDENTIFIER
+<return_type> ::= INTEGER | FLOAT
+<statement> ::= <function>
+<function> ::= IDENTIFIER "(" STRING ")"
